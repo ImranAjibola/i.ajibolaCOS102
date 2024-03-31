@@ -1,0 +1,7 @@
+1. Input Name1, Age1, Name2, Age2
+2. Display Name1 and Age1 before swapping
+3. Display Name2 and Age2 before swapping
+4. Swap Age1 with Age2
+5. Display Name1 and Age1 after swapping
+6. Display Name2 and Age2 after swapping
+7. End

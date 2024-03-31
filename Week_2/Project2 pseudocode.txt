@@ -1,0 +1,11 @@
+1. Algorithm to Find Roots of a Cubic Equation:
+2. Input coefficients A, B, C, and D for the cubic equation Ax^3 + Bx^2 + Cx + D = 0.
+3. Calculate the discriminant D1 = 18ABCD - 4B^3D + B^2C^2 - 4AC^3 - 27A^2D^2.
+4. If D1 > 0, calculate the intermediate values P = C/A - (B^2)/(3A^2) and Q = D/A - (BC)/(3A^2).
+5. Calculate the intermediate value R = (Q/2)^2 + (P/3)^3.
+6. If R > 0, calculate the values S = (Q/2 + sqrt(R))^(1/3) and T = (Q/2 - sqrt(R))^(1/3).
+7. Compute the three roots:
+	x1 = S + T - B/(3A)
+	x2 = -(S + T)/2 - B/(3A) + (S - T)*sqrt(3)*i/2
+	x3 = -(S + T)/2 - B/(3A) - (S - T)*sqrt(3)*i/2
+8. Display the roots x1, x2, and x3.

@@ -1,0 +1,14 @@
+1. Display a thank you message for shopping with us.
+2. Calculate the total price of the items in the cart.
+3. Display the total price to the customer.
+4. Prompt the customer for payment information (e.g., credit card details).
+5. Process the payment transaction.
+6. If payment is successful:
+   6.1. Generate a receipt with the details of the purchase.
+   6.2. Update inventory levels for purchased items.
+   6.3. Print or email the receipt to the customer.
+   6.4. Display a confirmation message.
+7. If payment fails:
+   7.1. Display an error message.
+   7.2. Allow the customer to retry payment or choose a different payment method.
+8. End the checkout process.

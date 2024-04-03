@@ -1,0 +1,7 @@
+1. Display "Name Age Height Score" header.
+2. Create a dictionary "girls" with keys as names (including age and height) and values as scores.
+3. Iterate through each key-value pair in "girls" dictionary:
+   3.1. Display the key and its corresponding value.
+4. Create a dictionary "boys" with keys as names (including age and height) and values as scores.
+5. Iterate through each key-value pair in "boys" dictionary:
+   5.1. Display the key and its corresponding value.
